@@ -1,0 +1,44 @@
+{
+    "$schema": "https://www.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^2.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/postcss": "^4.1.17",
+        "@tailwindcss/vite": "^4.0.0",
+        "@vitejs/plugin-vue": "^6.0.2",
+        "@vue/tsconfig": "^0.8.1",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.13.2",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^2.0.0",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.2.1",
+        "typescript": "^5.9.3",
+        "vite": "^7.2.4",
+        "vue": "^3.4.0"
+    },
+    "dependencies": {
+        "@alpinejs/persist": "^3.15.2",
+        "@fullcalendar/core": "^6.1.19",
+        "@fullcalendar/daygrid": "^6.1.19",
+        "@fullcalendar/interaction": "^6.1.19",
+        "@fullcalendar/list": "^6.1.19",
+        "@fullcalendar/timegrid": "^6.1.19",
+        "@heroicons/vue": "^2.2.0",
+        "apexcharts": "^5.3.6",
+        "dropzone": "^6.0.0-beta.2",
+        "flatpickr": "^4.6.13",
+        "jsvectormap": "^1.7.0",
+        "lucide-vue-next": "^0.555.0",
+        "vue-router": "^4.6.3",
+        "vue-toastification": "^2.0.0-rc.5",
+        "ziggy-js": "^2.6.0"
+    }
+}
